@@ -10,6 +10,7 @@ namespace Video
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
